@@ -1,3 +1,5 @@
+//DOM MANIPULATION - Riccardo R. - 08-05-2025
+
 /* ESERCIZIO 1
        Scrivi una funzione per cambiare il titolo della pagina in 
        qualcos'altro
